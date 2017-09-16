@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_warehouse" label="Warehouse" language="en" table="x_153776_sn_stock_sn_stockpile">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_warehouse</element>
+            <help/>
+            <hint/>
+            <label>Warehouse</label>
+            <language>en</language>
+            <name>x_153776_sn_stock_sn_stockpile</name>
+            <plural>Warehouses</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-16 11:19:12</sys_created_on>
+            <sys_id>bc9223644f5103006d0e1b818110c78b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Warehouse</sys_name>
+            <sys_package display_value="sn_stock" source="x_153776_sn_stock">f75ecb684f1103006d0e1b818110c73d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sn_stock">f75ecb684f1103006d0e1b818110c73d</sys_scope>
+            <sys_update_name>sys_documentation_x_153776_sn_stock_sn_stockpile_u_warehouse_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-16 11:19:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
