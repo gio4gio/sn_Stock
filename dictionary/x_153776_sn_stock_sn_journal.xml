@@ -3,5 +3,21 @@
     <element label="sn_Journal" max_length="40" name="x_153776_sn_stock_sn_journal" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Direction" mandatory="true" max_length="40" name="u_direction" type="string">
+            <choice>
+                <element label="In" sequence="0" value="1"/>
+                <element label="Out" sequence="1" value="-1"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" mandatory="true" max_length="20" name="u_price" type="price"/>
+        <element label="Quantity" mandatory="true" max_length="40" name="u_quantity" type="float"/>
+        <element label="Stock" mandatory="true" max_length="32" name="u_stock" reference="x_153776_sn_stock_sn_stock" type="reference"/>
+        <element label="Warehouse" mandatory="true" max_length="32" name="u_warehouse" reference="x_153776_sn_stock_sn_warehouse" type="reference"/>
+        <index name="index">
+            <element name="u_stock"/>
+        </index>
+        <index name="index2">
+            <element name="u_warehouse"/>
+        </index>
     </element>
 </database>

@@ -15,16 +15,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d01653ac4f1103006d0e1b818110c725</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_Company</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sn_Base Data</sys_name>
         <sys_overrides/>
         <sys_package display_value="sn_stock" source="x_153776_sn_stock">f75ecb684f1103006d0e1b818110c73d</sys_package>
         <sys_policy/>
         <sys_scope display_value="sn_stock">f75ecb684f1103006d0e1b818110c73d</sys_scope>
         <sys_update_name>sys_app_application_d01653ac4f1103006d0e1b818110c725</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-09-16 10:24:34</sys_updated_on>
-        <title>sn_Company</title>
+        <sys_updated_on>2017-09-16 11:43:43</sys_updated_on>
+        <title>sn_Base Data</title>
         <view_name/>
     </sys_app_application>
 </record_update>

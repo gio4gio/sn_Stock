@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="74f867284f5103006d0e1b818110c748" sys_domain="global" table="x_153776_sn_stock_sn_journal" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-16 11:52:48</sys_created_on>
+            <sys_id>3c4a23684f5103006d0e1b818110c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_153776_sn_stock_sn_journal" sys_domain="global" view="Default view">74f867284f5103006d0e1b818110c748</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-16 11:52:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_warehouse</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-16 11:52:48</sys_created_on>
+            <sys_id>bc4a23684f5103006d0e1b818110c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_153776_sn_stock_sn_journal" sys_domain="global" view="Default view">74f867284f5103006d0e1b818110c748</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-16 11:52:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_direction</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-16 11:52:48</sys_created_on>
+            <sys_id>304a23684f5103006d0e1b818110c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_153776_sn_stock_sn_journal" sys_domain="global" view="Default view">74f867284f5103006d0e1b818110c748</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-16 11:52:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stock</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-16 11:52:48</sys_created_on>
+            <sys_id>b04a23684f5103006d0e1b818110c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_153776_sn_stock_sn_journal" sys_domain="global" view="Default view">74f867284f5103006d0e1b818110c748</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-16 11:52:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quantity</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-16 11:52:48</sys_created_on>
+            <sys_id>344a23684f5103006d0e1b818110c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_153776_sn_stock_sn_journal" sys_domain="global" view="Default view">74f867284f5103006d0e1b818110c748</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-16 11:52:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_price</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-16 11:52:48</sys_created_on>
+            <sys_id>b44a23684f5103006d0e1b818110c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_153776_sn_stock_sn_journal" sys_domain="global" view="Default view">74f867284f5103006d0e1b818110c748</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-16 11:52:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_153776_sn_stock_sn_journal</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-16 11:47:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74f867284f5103006d0e1b818110c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_153776_sn_stock_sn_journal</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sn_stock" source="x_153776_sn_stock">f75ecb684f1103006d0e1b818110c73d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sn_stock">f75ecb684f1103006d0e1b818110c73d</sys_scope>
+            <sys_update_name>sys_ui_section_74f867284f5103006d0e1b818110c748</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-16 11:47:03</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
