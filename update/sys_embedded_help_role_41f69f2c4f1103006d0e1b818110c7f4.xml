@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_153776_sn_stock.sn_voucher_user" name="x_153776_sn_stock.sn_voucher_user">49f69f2c4f1103006d0e1b818110c7f2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-16 10:28:27</sys_created_on>
+        <sys_id>41f69f2c4f1103006d0e1b818110c7f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>49f69f2c4f1103006d0e1b818110c7f2</sys_name>
+        <sys_package display_value="sn_stock" source="x_153776_sn_stock">f75ecb684f1103006d0e1b818110c73d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sn_stock">f75ecb684f1103006d0e1b818110c73d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_41f69f2c4f1103006d0e1b818110c7f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-16 10:28:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
